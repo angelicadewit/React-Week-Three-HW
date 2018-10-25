@@ -1,0 +1,33 @@
+body {
+	background-color:#cbe6ef;
+}
+
+.App {
+	text-align: center;
+}
+
+ul{
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	width: 70%;
+	justify-content: space-evenly;
+	margin: auto;
+	padding: 0px;
+}
+
+li{
+	padding-top: 40px;
+}
+
+h2{
+	margin-bottom: 0px;
+}
+
+p{
+	margin: 5px 0px 20px;
+}
+
+img{
+	border: 1px solid black;
+}
